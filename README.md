@@ -44,3 +44,7 @@ For regression problems, the most common approach is to use the average of the K
             f(x) = (1/K) * sum(y_i) 
             
  where f(x) is the predicted label for the query point x, K is the number of nearest neighbors, and y_i is the label of the i-th nearest neighbor.
+
+## Data Visualization
+
+![alt text](https://github.com/parth-lotte/Diabetes-Prediciton-Using-KNN---Algorithm/blob/main/Histogram.png)
