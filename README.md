@@ -48,3 +48,9 @@ For regression problems, the most common approach is to use the average of the K
 ## Data Visualization
 
 ![alt text](https://github.com/parth-lotte/Diabetes-Prediciton-Using-KNN---Algorithm/blob/main/Histogram.png)
+
+
+## Authors
+
+- [@parth-lotte](https://www.github.com/parth-lotte)
+
